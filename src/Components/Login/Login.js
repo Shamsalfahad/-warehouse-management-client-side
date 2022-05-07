@@ -50,7 +50,7 @@ const Login = () => {
       <img
         className="text-center img-fluid"
         src={
-          "https://i.pinimg.com/originals/45/12/4d/45124d126d0f0b6d8f5c4d635d466246.gif"
+          "https://img.pikbest.com/png-images/20190918/cartoon-snail-loading-loading-gif-animation_2734139.png!c1024wm0"
         }
         alt=""
       />

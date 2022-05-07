@@ -9,13 +9,8 @@ const BeFresh = () => {
       <p className=" p-5 me-5 text-dark rounded"
       style={{ backgroundColor: "rgba(0, 0, 0, 0.1)" }}
       >
-        <h4>Wanna smell fresh all day? </h4>
-        Good fragrance can instantly lift your mood. And that’s the reason why
-        we constantly struggle to make our perfume last all day. Whether it’s
-        spending hordes on expensive ones or re-applying them every few hours,
-        we have tried it all. But maybe we are just doing it wrong? Turns out,
-        the right spots to apply perfumes on our body are the ones we would have
-        never thought of.
+        <h4>How to Make Cologne Last? 😊 </h4>
+        Just like that expensive bottle of liqueur you’ve been cherishing, don’t store cologne in hot, sunny places like your bathroom or on a dresser top. Find a little shelf for it in the closet. Sun and heat will break down the components faster and make the alcohol and water evaporate sooner. A good cologne should last from three to five years. (Some people say to replace in a year, but those people are also probably selling cologne.) Rancid oils and a higher concentration of alcohol can affect the way the product smells and might even harm your skin..
       </p>
       <img
         className="rounded img-fluid"

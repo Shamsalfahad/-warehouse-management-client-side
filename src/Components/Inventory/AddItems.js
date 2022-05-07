@@ -27,7 +27,7 @@ const AddItems = () => {
   };
   return (
     <div className="bg-light rounded container mt-4 rounded">
-      <h2>Add New Products </h2>
+      <h2>Add New Products 😊 </h2>
       <form onSubmit={handleAddItems}>
         <input
           className="p-2 m-2 w-50"

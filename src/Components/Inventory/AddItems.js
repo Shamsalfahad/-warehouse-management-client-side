@@ -49,7 +49,7 @@ const AddItems = () => {
           className="p-2 m-2 w-50"
           type="number"
           required
-          placeholder="insert Price"
+          placeholder="Insert Price"
           name="price"
         />
         <br />
@@ -57,7 +57,7 @@ const AddItems = () => {
           className="p-2 m-2 w-50"
           type="number"
           required
-          placeholder="insert quantity"
+          placeholder="Insert quantity"
           name="Quantity"
         />
         <br />
@@ -65,7 +65,7 @@ const AddItems = () => {
           className="p-2 m-2 w-50"
           type="text"
           required
-          placeholder="supplier"
+          placeholder="Supplier"
           name="supplier"
         />
         <br />

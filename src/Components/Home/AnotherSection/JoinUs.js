@@ -23,7 +23,7 @@ const JoinUs = () => {
             <h1 className="text-danger">50% OFF🎉🎁</h1>
             <h1 className="text-danger">So Why Are You Waiting for??</h1>
             <br />
-            <button className="btn btn-secondary mb-3">Make a phone call</button>
+            <button className="btn btn-secondary mb-3">Make A Phone Call</button>
             
           </div>
         </div>

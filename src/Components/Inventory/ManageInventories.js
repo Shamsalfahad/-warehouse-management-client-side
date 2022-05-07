@@ -14,7 +14,7 @@ const ManageInventories = () => {
   return (
     <div>
       <div className="container  ">
-        <h1 className="">All Products</h1>
+        <h1 className="">All Products 😊</h1>
       </div>
       <div className="">
         <div className="row">

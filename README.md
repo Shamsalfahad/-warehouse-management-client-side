@@ -4,9 +4,9 @@
 
 ## Live Site Link [https://assignment-11-node-mongo-4a404.web.app/]
 
-⚪ Google authentication.
-⚪ Email password authentication.
-⚪ Can add products.
-⚪ Can delete products.
-⚪ You can register and then you can login your self.
+⚪ Google authentication. <br>
+⚪ Email password authentication. <br>
+⚪ Can add products. <br>
+⚪ Can delete products. <br>
+⚪ You can register and then you can login your self. <br>
 ⚪ Also has JWT.

@@ -19,15 +19,16 @@ const JoinUs = () => {
       >
         <div className="d-flex justify-content-center align-items-center h-50">
           <div className="text-white">
-            <h1 className="text-danger">50% OFF</h1>
+          <h3 className="text-danger">If You Buy 100 Cologne</h3>
+            <h1 className="text-danger">50% OFF🎉🎁</h1>
+            <h1 className="text-danger">So Why Are You Waiting for??</h1>
+            <br />
+            <button className="btn btn-secondary mb-3">Make a phone call</button>
+            
           </div>
         </div>
       </div>
-          <h3>Contact Us</h3>
-          for you betterment and a bright future, we hire the best person, let's
-          talk us join us there will be huge fun, make hire call us
         </p>
-        <button className="btn btn-secondary mb-3">Make a phone call</button>
       </div>
 
       

@@ -45,7 +45,7 @@ const Registration = () => {
 
   return (
     <div>
-      <Form className="container  w-md-75 w-sm-100 mt-2 bg-light p-5 rounded">
+      <Form className="container  w-md-75 w-sm-100 mt-2 bg-dark text-light p-5 rounded">
         <h1 className="mb-3">Please Registration</h1>
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Email address</Form.Label>

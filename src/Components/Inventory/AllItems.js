@@ -16,7 +16,7 @@ const AllItems = ({ item }) => {
     const proceed = window.confirm("Are you sure you want to delete? ");
     if (proceed) {
       console.log("deleting user id", id);
-      const url = `https://cryptic-shelf-45142.herokuapp.com/${id}`;
+      const url = `https://cryptic-shelf-45142.herokuapp.com/items/${id}`;
 
       fetch(url, {
         method: "DELETE",

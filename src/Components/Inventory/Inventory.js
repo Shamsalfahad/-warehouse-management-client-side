@@ -42,7 +42,7 @@ const Inventory = () => {
   // const inputValue = parseInt(updateQuantity);
 
   useEffect(() => {
-    const url = `https://cryptic-shelf-45142.herokuapp.com/${itemsId}`;
+    const url = `https://cryptic-shelf-45142.herokuapp.com/items/${itemsId}`;
     fetch(url).then((res) =>
       res.json().then((data) => {
         setItems(data);
